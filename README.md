@@ -1,2 +1,3 @@
 # beginning
-start_learning
+print("Hello Git")
+
